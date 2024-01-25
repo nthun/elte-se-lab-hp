@@ -4,19 +4,19 @@ sections:
 - block: contact
   content:
     address:
-      city: Stanford
-      country: United States
-      country_code: US
-      postcode: "94305"
-      region: CA
-      street: 450 Serra Mall
+      city: Budapest
+      country: Hungary
+      country_code: HUN
+      postcode: "1075"
+      region: Pest
+      street: 46, Izabella street
     appointment_url: https://calendly.com
     autolink: true
     coordinates:
-      latitude: "37.4275"
-      longitude: "-122.1697"
-    directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    email: test@example.org
+      latitude: "47.50666"
+      longitude: "19.06850"
+    directions: 5th floor, Room 521
+    email: stress-and-emotions-lab@gmail.com
     form:
       formspree:
         id: null
@@ -24,8 +24,7 @@ sections:
         captcha: false
       provider: netlify
     office_hours:
-    - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
+    - Monday to Friday 10:00 to 16:00
     phone: 888 888 88 88
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus
       augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor
