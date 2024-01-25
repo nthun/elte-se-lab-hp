@@ -10,7 +10,6 @@ sections:
       postcode: "1075"
       region: Pest
       street: 46, Izabella street
-    appointment_url: https://calendly.com
     autolink: true
     coordinates:
       latitude: "47.50666"
