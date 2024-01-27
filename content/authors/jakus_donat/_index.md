@@ -18,7 +18,7 @@ role: BA student
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:
+  link: mailto:test@example.org
 - icon: github
   icon_pack: fab
   link: 
