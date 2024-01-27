@@ -13,6 +13,7 @@ sections:
     - Research Assistants
     - Visitors
     - Alumni
+    - Graduate Alumni
   design:
     show_interests: false
     show_role: true
