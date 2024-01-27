@@ -11,7 +11,6 @@ sections:
     - Postdocs
     - Grad Students
     - Research Assistants
-    - Visitors
     - Alumni
     - Graduate Alumni
   design:
