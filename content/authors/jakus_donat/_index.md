@@ -1,23 +1,20 @@
 ---
-bio: My research interests include the connection between caffeine consumption, physiological arousal and stress.
+bio: My research interests include discovering systematic differences between people in their behaviour.
 education:
   courses:
-  - course: MA in Psychology
-    institution: Eötvös Loránd University
-    year: 2024
   - course: BA in Psychology
     institution: Eötvös Loránd University
-    year: 2022
+    year: 2023
 email: ""
-first_name: Ákos
+first_name: Donát
 interests:
-- Clinical and health psychology
-- The effect of caffeine consumption on stress recovery and emotions
-last_name: Pintér
+- Systematic differences in the behaviour of people
+- The role of specific emotions in stress recovery
+last_name: Jakus
 organizations:
 - name: Eötvös Loránd University
   url: ""
-role: MA student
+role: BA student
 social:
 - icon: envelope
   icon_pack: fas
@@ -29,9 +26,9 @@ social:
   icon pack: fab
   link: 
 superuser: false
-title: Ákos Pintér
+title: Donát Jakus
 user_groups:
 - Alumni
 ---
 
-I'm Ákos Pintér, a second year student in psychology. I am studying Clinical and Health Psychology, which I chose because applied psychology is a bit closer to me. Based on this, I volunteer in a health psychology clinic, but I am also happy to help in the research lab with any task. I have been involved in several projects, such as research on tactile sensitivity and media-induced stress recovery. Since about 85% of adults consume caffeine on a daily basis, I am most interested in research on this topic to better understand how it affects our thinking and emotions.
+I am Donát Jakus, I graduated from ELTE with a BA in Psychology. I am a member of the research team since January 2023. What is really interesting to me is what kind of system we can find in the differences in behaviour between people. In the research group, I am working on a project on media-induced stress recovery. Within that, I am researching the role of specific emotions.
