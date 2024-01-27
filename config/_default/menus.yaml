@@ -10,14 +10,14 @@ main:
   - name: People
     url: people
     weight: 20
-  - name: News
-    url: news
-    weight: 30
-  - name: Events
-    url: events
-    weight: 40
   - name: Publications
     url: publications
+    weight: 30
+  - name: News
+    url: news
+    weight: 40
+  - name: Events
+    url: events
     weight: 50
   - name: Contact
     url: contact
