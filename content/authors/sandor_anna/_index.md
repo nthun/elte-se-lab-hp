@@ -1,23 +1,20 @@
 ---
-bio: My research interests include the connection between caffeine consumption, physiological arousal and stress.
+bio: My research interests is the effect of stress on verbal agression.
 education:
   courses:
-  - course: MA in Psychology
-    institution: Eötvös Loránd University
-    year: 2024
   - course: BA in Psychology
     institution: Eötvös Loránd University
-    year: 2022
+    year: 2023-2026
 email: ""
-first_name: Ákos
+first_name: Anna Viola
 interests:
-- Clinical and health psychology
-- The effect of caffeine consumption on stress recovery and emotions
-last_name: Pintér
+- Linguistics
+- The effect of stress on verbal agression
+last_name: Sándor
 organizations:
 - name: Eötvös Loránd University
   url: ""
-role: MA student
+role: BA student
 social:
 - icon: envelope
   icon_pack: fas
@@ -29,9 +26,9 @@ social:
   icon pack: fab
   link: 
 superuser: false
-title: Ákos Pintér
+title: Anna Viola Sándor
 user_groups:
 - Alumni
 ---
 
-I'm Ákos Pintér, a second year student in psychology. I am studying Clinical and Health Psychology, which I chose because applied psychology is a bit closer to me. Based on this, I volunteer in a health psychology clinic, but I am also happy to help in the research lab with any task. I have been involved in several projects, such as research on tactile sensitivity and media-induced stress recovery. Since about 85% of adults consume caffeine on a daily basis, I am most interested in research on this topic to better understand how it affects our thinking and emotions.
+I am Anna Viola Sándor, a first-year student of psychology at ELTE PPK. I joined the research group as a fellow of the New National Excellence Programme, where my current research topic is the effect of stress on verbal aggression. Previously, I studied for two years at ELTE BTK, where I also studied Italian and Portuguese language and culture. In addition, I have been a member of the Eötvös József Szakkollégium at ELTE for three years, which has been a great experience for me both professionally and personally.
