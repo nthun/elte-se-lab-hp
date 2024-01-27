@@ -7,8 +7,8 @@ main:
   - name: People
     url: people
     weight: 10
-  - name: Tour
-    url: tour
+  - name: Research
+    url: research
     weight: 20
   - name: News
     url: news
