@@ -14,7 +14,7 @@ last_name: Jakus
 organizations:
 - name: Eötvös Loránd University
   url: ""
-role: BA student
+role: Research Assistant
 social:
 - icon: envelope
   icon_pack: fas

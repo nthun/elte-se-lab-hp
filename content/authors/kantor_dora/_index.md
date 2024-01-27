@@ -17,7 +17,7 @@ last_name: Kántor
 organizations:
 - name: Eötvös Loránd University
   url: ""
-role: MA student
+role: Research Assistant
 social:
 - icon: envelope
   icon_pack: fas
