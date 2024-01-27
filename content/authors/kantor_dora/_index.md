@@ -1,5 +1,5 @@
 ---
-bio: My research interests include the connection between caffeine consumption, physiological arousal and stress.
+bio: My research interests include the connection between psychophysiological changes and stress.
 education:
   courses:
   - course: MA in Psychology
@@ -9,11 +9,11 @@ education:
     institution: Eötvös Loránd University
     year: 2022
 email: ""
-first_name: Ákos
+first_name: Dóra
 interests:
-- Clinical and health psychology
-- The effect of caffeine consumption on stress recovery and emotions
-last_name: Pintér
+- Clinical and health psychology and Medicine
+- The connection of stress and psychophysiological changes in humans
+last_name: Kántor
 organizations:
 - name: Eötvös Loránd University
   url: ""
@@ -29,9 +29,9 @@ social:
   icon pack: fab
   link: 
 superuser: false
-title: Ákos Pintér
+title: Dóra Kántor
 user_groups:
 - Alumni
 ---
 
-I'm Ákos Pintér, a second year student in psychology. I am studying Clinical and Health Psychology, which I chose because applied psychology is a bit closer to me. Based on this, I volunteer in a health psychology clinic, but I am also happy to help in the research lab with any task. I have been involved in several projects, such as research on tactile sensitivity and media-induced stress recovery. Since about 85% of adults consume caffeine on a daily basis, I am most interested in research on this topic to better understand how it affects our thinking and emotions.
+I graduated from ELTE with a bachelor's degree in psychology in 2022, after which I continued my studies at the Master's degree in clinical and health psychology. After completing my Master's degree, I would like to continue my studies at the Faculty of Medicine, because I firmly believe that the health of a person requires the combined integrity of both the body and the soul, and by completing these courses I could satisfy my idea of what ‘healing’ is. I applied for the research group because I believe that it is crucial to understand stress, as it has many negative effects on our health. I also wanted to get an insight into how to execute a research project from start to finish. It was important for me to be part of a research team that was also involved in psychophysiological measurements. In addition to university and the research group, I am currently training as a CBT consultant and on courses in family and couples therapy.
