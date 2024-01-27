@@ -17,20 +17,20 @@ last_name: Rónai
 organizations:
 - name: Eötvös Loránd University
   url: ""
-role: Postdoc
+role: Postdoctoral Scientist
 social:
 - icon: envelope
   icon_pack: fas
   link: mailto:test@example.org
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=Uw7vdrQAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: 
 superuser: false
 title: Levente Rónai
 user_groups:
