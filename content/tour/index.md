@@ -32,8 +32,9 @@ sections:
           filters:
             brightness: 0.5
         position: center
-      content: Media-induced stress recovery - our active project exploring how physiological arousal affects the recovery from cognitive fatigue.
-      Arousal and tactile sensitivity - we investigated how the manipulation of arousal affects tactile sensitivity.
+      content: 
+        - Media-induced stress recovery - our active project exploring how physiological arousal affects the recovery from cognitive fatigue.
+        - Arousal and tactile sensitivity - we investigated how the manipulation of arousal affects tactile sensitivity.
       title: Some of our projects
   design:
     interval: 2000
