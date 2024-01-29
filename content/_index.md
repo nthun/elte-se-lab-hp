@@ -38,7 +38,7 @@ sections:
   design:
     background:
       image:
-        filename: coders.jpg
+        filename: elte-ppk-building1.jpg
         filters:
           brightness: 1
         parallax: false
