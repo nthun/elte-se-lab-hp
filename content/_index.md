@@ -38,7 +38,7 @@ sections:
   design:
     background:
       image:
-        filename: elte-ppk-building1.jpg
+        filename: elte-ppk-building11.jpg
         filters:
           brightness: 1
         parallax: false
