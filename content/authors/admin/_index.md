@@ -1,5 +1,5 @@
 ---
-bio: My research interests include stress and emotion physiology, machine learning and computational science and improving psychological science.
+bio: My research interests include stress and emotion physiology, machine learning, computational science and improving psychological science.
 education:
   courses:
   - course: PhD in Psychology
