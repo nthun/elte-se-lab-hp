@@ -28,7 +28,7 @@ social:
 superuser: false
 title: Anna Viola Sándor
 user_groups:
-- Alumni
+- Lab Members
 ---
 
 I am Anna Viola Sándor, a first-year student of psychology at ELTE PPK. I joined the research group as a fellow of the New National Excellence Programme, where my current research topic is the effect of stress on verbal aggression. Previously, I studied for two years at ELTE BTK, where I also studied Italian and Portuguese language and culture. In addition, I have been a member of the Eötvös József Szakkollégium at ELTE for three years, which has been a great experience for me both professionally and personally.

@@ -31,7 +31,7 @@ social:
 superuser: false
 title: Ákos Pintér
 user_groups:
-- Alumni
+- Lab Members
 ---
 
 I'm Ákos Pintér, a second year student in psychology. I am studying Clinical and Health Psychology, which I chose because applied psychology is a bit closer to me. Based on this, I volunteer in a health psychology clinic, but I am also happy to help in the research lab with any task. I have been involved in several projects, such as research on tactile sensitivity and media-induced stress recovery. Since about 85% of adults consume caffeine on a daily basis, I am most interested in research on this topic to better understand how it affects our thinking and emotions.

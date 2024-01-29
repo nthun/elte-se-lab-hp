@@ -10,8 +10,7 @@ sections:
     - Principal Investigator
     - Postdocs
     - Grad Students
-    - Research Assistants
-    - Alumni
+    - Lab Members
     - Graduate Alumni
   design:
     show_interests: false
