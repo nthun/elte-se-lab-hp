@@ -16,8 +16,6 @@ sections:
       longitude: "19.06850"
     directions: 5th floor, Room 521
     email: stress-and-emotions-lab@gmail.com
-    office_hours:
-    - Monday to Friday 10:00 to 16:00
     text:
     title: Contact
   design:
