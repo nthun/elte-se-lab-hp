@@ -19,18 +19,9 @@ organizations:
   url: ""
 role: Postdoctoral Scientist
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:test@example.org
-- icon: twitter
-  icon_pack: fab
-  link: 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=Uw7vdrQAAAAJ
-- icon: github
-  icon_pack: fab
-  link: 
 superuser: false
 title: Levente Rónai
 user_groups:
