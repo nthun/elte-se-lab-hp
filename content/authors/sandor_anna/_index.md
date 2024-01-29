@@ -14,17 +14,7 @@ last_name: Sándor
 organizations:
 - name: Eötvös Loránd University
   url: ""
-role: BA student
-social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:test@example.org
-- icon: github
-  icon_pack: fab
-  link: 
-- icon: linkedin
-  icon pack: fab
-  link: 
+role: Research Assistant
 superuser: false
 title: Anna Viola Sándor
 user_groups:

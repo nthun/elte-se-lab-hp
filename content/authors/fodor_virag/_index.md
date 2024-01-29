@@ -19,16 +19,6 @@ organizations:
 - name: Eötvös Loránd University
   url: ""
 role: Postgradute Research Intern
-social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:test@example.org
-- icon: github
-  icon_pack: fab
-  link: 
-- icon: linkedin
-  icon pack: fab
-  link: 
 superuser: false
 title: Virág Fodor
 user_groups:

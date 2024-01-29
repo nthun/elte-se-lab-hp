@@ -18,16 +18,6 @@ organizations:
 - name: Eötvös Loránd University
   url: ""
 role: Research Assistant
-social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:janku.flora@student.elte.hu
-- icon: github
-  icon_pack: fab
-  link: https://github.com/jankflor
-- icon: linkedin
-  icon pack: fab
-  link: https://www.linkedin.com/in/flora-janku-1bba68230/
 superuser: false
 title: Flóra Janku
 user_groups:

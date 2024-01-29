@@ -18,16 +18,6 @@ organizations:
 - name: Eötvös Loránd University
   url: ""
 role: Research Assistant
-social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:test@example.org
-- icon: github
-  icon_pack: fab
-  link: 
-- icon: linkedin
-  icon pack: fab
-  link: 
 superuser: false
 title: Ákos Pintér
 user_groups:

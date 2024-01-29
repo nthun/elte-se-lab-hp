@@ -21,19 +21,6 @@ organizations:
 - name: Eötvös Loránd University
   url: ""
 role: Grad Student
-social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:test@example.org
-- icon: twitter
-  icon_pack: fab
-  link: 
-- icon: google-scholar
-  icon_pack: ai
-  link: 
-- icon: github
-  icon_pack: fab
-  link: 
 superuser: false
 title: Jennifer Nádasdy
 user_groups:
