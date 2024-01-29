@@ -18,7 +18,7 @@ last_name: Kopacz
 organizations:
 - name: Eötvös Loránd University
   url: ""
-role: Graduate alumni
+role: Graduate Alumni
 superuser: false
 title: Kinga Boróka Kopacz
 user_groups:
