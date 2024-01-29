@@ -1,0 +1,16 @@
+---
+date: "2024-01-29"
+title: "Position changes at Stress and Emotions Lab"
+---
+
+Stress and Emotions Lab welcomes new Postdoc member Levente Rónai, and new paid assistant Flóra Janku.
+
+<!--more-->
+
+Stress and Emotions Lab is a young research group lead by Dr. Tamás Nagy, adjunct professor at Eötvös Loránd University. The Lab investigates how physiological arousal and stress affects our emotions, cognition and behaviour in laboratory and real-life settings.
+
+The group has seen a growth in members over the past year. Recently, *Levente Rónai* has joined as a Postdoc, researching with intensive longitudinal data collection, the within-person variation of healthy and pathological cognitive and affective functioning.
+
+Most recently, *Flóra Janku* has changed positions as a paid Research Assistant. Going forward, she will be contributing behind-the-scenes to a number of projects in the Lab.
+
+Currently, the Lab consists of 9 active members, with an aim to carry out high quality research in the field of personality psychology.
