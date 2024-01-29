@@ -8,7 +8,7 @@ sections:
     text: |
       <br>
 
-      Stress and Emotions Lab conducts research on stress and emotions to seek causal links between everyday events, subclinical mental symptoms, emotions and perceptual phenomena by using sampling procedures, psychophysiological and psychoneuroendocrinal measurements.
+      At the Stress and Emotions Lab, we conduct research on stress and emotions to seek causal links between everyday events, subclinical mental symptoms, emotions and perceptual phenomena. Our methods include sampling procedures, psychophysiological and psychoneuroendocrinal measurements.
 
     title: |
       ELTE Stress and Emotions Lab
