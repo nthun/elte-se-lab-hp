@@ -13,7 +13,7 @@ sections:
             brightness: 0.4
         position: right
       content: Stress and Emotions Lab researches how physiological arousal and stress     affect humans' emotions, cognition and behaviour. Our aim is to understand more about the causal link between everyday (sometimes stressful) events, subclinical mental symptoms and perceptual phenomena. How do we do this?
-      title: "Welcome to the group"
+      title: "Welcome to our Lab"
     - align: left
       background:
         color: '#555'
