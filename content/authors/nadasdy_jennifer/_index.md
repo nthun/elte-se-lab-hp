@@ -20,7 +20,7 @@ last_name: Nádasdy
 organizations:
 - name: Eötvös Loránd University
   url: ""
-role: Grad Student
+role: PhD Student
 superuser: false
 title: Jennifer Nádasdy
 user_groups:
