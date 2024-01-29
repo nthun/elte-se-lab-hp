@@ -22,7 +22,7 @@ sections:
           filters:
             brightness: 0.4
         position: center
-      content: We use experimental methods such as sampling procedures, psychophysiological and psychoneuroendocrinal measurements in laboratory and real-life settings. Sounds exciting? Take a look at our past and current projects!
+      content: We use experimental methods such as experience sampling procedures, psychophysiological and psychoneuroendocrinal measurements in laboratory and real-life settings. Sounds exciting? Take a look at our past and current projects!
       title: Our methods
     - align: left
       background:
