@@ -7,7 +7,7 @@ education:
     year: 2023
   - course: BA in Psychology
     institution: Eötvös Loránd University
-    year: 
+    year: 2020
 email: ""
 first_name: Virág
 interests:
@@ -18,7 +18,7 @@ last_name: Fodor
 organizations:
 - name: Eötvös Loránd University
   url: ""
-role: Postgradute research intern
+role: Postgradute Research Intern
 social:
 - icon: envelope
   icon_pack: fas
