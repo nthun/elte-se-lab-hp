@@ -16,12 +16,6 @@ sections:
       longitude: "19.06850"
     directions: 5th floor, Room 521
     email: stress-and-emotions-lab@gmail.com
-    form:
-      formspree:
-        id: null
-      netlify:
-        captcha: false
-      provider: netlify
     office_hours:
     - Monday to Friday 10:00 to 16:00
     text:
@@ -36,7 +30,7 @@ sections:
   design:
     background:
       image:
-        filename: contact.jpg
+        filename: elte-ppk-building2.jpg
         filters:
           brightness: 1
         parallax: false
