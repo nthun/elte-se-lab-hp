@@ -4,42 +4,37 @@ sections:
 - block: slider
   content:
     slides:
-    - align: center
+    - align: left
       background:
         color: '#666'
         image:
-          filename: coders.jpg
+          filename: elte-logo.png
           filters:
             brightness: 0.7
         position: right
-      content: Take a look at what we're working on...
-      title: "\U0001F44B Welcome to the group"
+      content: Stress and Emotions Lab researches how physiological arousal and stress     affect humans' emotions, cognition and behaviour. Our aim is to understand more about the causal link between everyday (sometimes stressful) events, subclinical mental symptoms and perceptual phenomena. How do we do this?
+      title: "Welcome to the group"
     - align: left
       background:
         color: '#555'
         image:
-          filename: contact.jpg
+          filename: elte-logo.png
           filters:
             brightness: 0.7
         position: center
-      content: Share your knowledge with the group and explore exciting new topics
-        together!
-      title: Lunch & Learn ☕️
+      content: We use experimental methods such as sampling procedures, psychophysiological and psychoneuroendocrinal measurements in laboratory and real-life settings. Sounds exciting? Take a look at our past and current projects!
+      title: Our methods
     - align: right
       background:
         color: '#333'
         image:
-          filename: welcome.jpg
+          filename: elte-logo.png
           filters:
             brightness: 0.5
         position: center
-      content: Just opened last month!
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
-      title: World-Class Semiconductor Lab
+      content: Media-induced stress recovery - our active project exploring how physiological arousal affects the recovery from cognitive fatigue.
+      Arousal and tactile sensitivity - we investigated how the manipulation of arousal affects tactile sensitivity.
+      title: Some of our projects
   design:
     interval: 2000
     is_fullscreen: true
