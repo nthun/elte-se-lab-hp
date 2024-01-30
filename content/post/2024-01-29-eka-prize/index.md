@@ -1,5 +1,6 @@
 ---
 date: "2024-01-29"
+author: "Flóra Janku"
 title: ELTE Stress and Emotions Lab is awarded the University Excellence Fund 2023
 ---
 

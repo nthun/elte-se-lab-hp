@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Psychology
     institution: Budapest University of Technology and Economics
-    year: 2024
+    year: in progress
   - course: MA in Psychology
     institution: University of Szeged
     year: 2019
