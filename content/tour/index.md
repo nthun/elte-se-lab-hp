@@ -18,7 +18,7 @@ sections:
       background:
         color: '#555'
         image:
-          filename: elte-ppk-building1.jpg
+          filename: elte-kazy-windows.png
           filters:
             brightness: 0.4
         position: center
@@ -28,7 +28,7 @@ sections:
       background:
         color: '#333'
         image:
-          filename: elte-ppk-building1.jpg
+          filename: elte-balcony.png
           filters:
             brightness: 0.4
         position: center
