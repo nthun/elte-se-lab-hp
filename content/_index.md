@@ -4,14 +4,14 @@ sections:
 - block: hero
   content:
     image:
-      filename: welcome.jpg
+      filename: elte-ppk-logo.jpg
     text: |
       <br>
 
-      The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+      At the Stress and Emotions Lab, we conduct research on stress and emotions to seek causal links between everyday events, subclinical mental symptoms, emotions and perceptual phenomena. Our methods include sampling procedures, psychophysiological and psychoneuroendocrinal measurements.
+
     title: |
-      Wowchemy
-      Research Group
+      ELTE Stress and Emotions Lab
 - block: collection
   content:
     count: 5
@@ -38,7 +38,7 @@ sections:
   design:
     background:
       image:
-        filename: coders.jpg
+        filename: elte-izu-building1.png
         filters:
           brightness: 1
         parallax: false

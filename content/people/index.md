@@ -7,12 +7,11 @@ sections:
     sort_by: Params.last_name
     title: Meet the Team
     user_groups:
-    - Principal Investigators
-    - Researchers
+    - Principal Investigator
+    - Postdocs
     - Grad Students
-    - Administration
-    - Visitors
-    - Alumni
+    - Lab Members
+    - Graduate Alumni
   design:
     show_interests: false
     show_role: true
