@@ -1,13 +1,12 @@
 ---
-date: "2023-11-24"
-external_link: https://osf.io/9ad48/ 
+date: "2024-03-21"
 image:
   focal_point: Smart
-summary: "Talk at the symposium in the Hungarian Academy of Sciences - Artificial Intelligence in Psychology."
+summary: "Talk at the Forum of Research Labs about our study, Media-induced stress recovery."
 tags:
-- methods
-- ai
+- elevator talk
+- research
 - psychology
-title: "How can large language models help us understand how the human mind works? (HUN)"
+title: "The role of physiological arousal in the intensity of emotional reactions. (HUN)"
 ---
 
