@@ -6,7 +6,7 @@ image:
 summary: "Panel discussion at the Illyes Days event about the future of psychological science in 10, 20 and 30 years."
 tags:
 - methods
-- research
+- ai
 - psychology
 title: "Psychological Science in 10, 20, 30 Years. (HUN)"
 ---
