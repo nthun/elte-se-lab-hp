@@ -4,7 +4,7 @@ sections:
 - block: hero
   content:
     image:
-      filename: elte-ppk-logo.jpg
+      filename: tour-pic-big.jpg
     text: |
       <br>
 
