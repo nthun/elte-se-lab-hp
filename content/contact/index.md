@@ -28,7 +28,7 @@ sections:
   design:
     background:
       image:
-        filename: elte-izu-building2.png
+        filename: tour-contact-page.jpg
         filters:
           brightness: 1
         parallax: false
