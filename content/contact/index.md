@@ -7,7 +7,7 @@ sections:
       city: Budapest
       country: Hungary
       country_code: HUN
-      postcode: "1075"
+      postcode: "1064"
       region: Pest
       street: 46, Izabella street
     autolink: true
