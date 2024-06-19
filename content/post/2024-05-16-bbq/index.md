@@ -9,6 +9,6 @@ As the end of the spring semester approached, our Lab decided to celebrate with 
 
 This semester brought on many challenges and required hard work from everyone in the Lab. So, on a May weekend, we decided to celebrate with a barbecue at Két Rombusz, on the Roman Beach.
 
-We grilled some meat, cheese and a lot of vegetables, while we had a chat about recent events. For example, Anna received 3rd place at the home competition of the Conference of Scientific Students' Associations (TDK), meaning she can bring her research to the National Conference of Scientific Students' Associations (OTDK), which will be held in May 2025. Other members finished writing their Master's theses or scientific articles and manuscripts.
+We grilled some meat, cheese and a lot of vegetables, while we had a chat about recent events. For example, Anna received 3rd place at the home competition of the Conference of Scientific Students' Associations (TDK) with her paper 'The effect of physiological arousal on verbal agression', meaning she can bring her research to the National Conference of Scientific Students' Associations (OTDK), which will be held in May 2025. Other members finished writing their Master's theses or scientific articles and manuscripts.
 
 With a number of great accomplishments, it is evident that a celebration was needed! We had a lovely time, and returned to work with a refreshed and proud mindset.
