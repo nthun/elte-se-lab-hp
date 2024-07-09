@@ -1,0 +1,16 @@
+---
+date: "2024-06-19"
+title: Being practical about Open Science - a workshop and roundtable discussion at ELTE Teachers' Club
+---
+
+A workshop and round table discussion was held for employees of ELTE about the importance and practicalities of Open Science.
+
+<!--more-->
+
+In recent years, the Open Science movement has gained growing importance in the work of researchers and academics. By making research data, methodologies, and findings freely available to the public, open science aims to accelerate the pace of discovery and innovation, promote inclusivity and diversity, and strengthen public trust in science. A number of tools have been created to facilitate the application of open science workflows.
+
+During this workshop, ELTE employees had the chance to listen to five outstanding presentations from the field of open science. After the welcoming words of Vice Chancellor Péter Sziklai, Saskia Stevens held her presentation named 'Constructing the Limes: Exploring the borders of the Roman Empire in the Netherlands through participatory archaeology'. Following that, Balázs Aczél talked about tools aiding research transparency. On the topic of publication, Tibor Faragó-Szilvási showed the green way of Open Access publication. Lilla Máté-Kovács held a short lecture about the role of registered reports in open science.
+
+Tamás Nagy, Assistant Professor and head of Stress and Emotions Lab, talked about questionable research practices. Him and his research team have been the first ones to create a concrete definition for questionable research practices, and compiled a list of 40 practices frequently found in research works. Their work extensively describes what questionable research practices are, what danger they hold, how to recognize them and how to avoid using them during academic work.
+
+The event closed with a round table discussion with Lilla Máté-Kovács and Tamás Nagy, moderated by Balázs Aczél. Several interesting and thought-provoking topics were discussed, resulting in the active participation of the audience as well.
