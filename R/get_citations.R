@@ -1,9 +1,9 @@
 library(scholar)
-library(dplyr)
-library(purrr)
-library(tidyr)
+library(tidyverse)
 library(gt)
-library(glue)
+library(RefManageR)
+library(lubridate)
+library(stringi)
 
 tamas_scholar <- "Lec9WuYAAAAJ"
 levente_scholar <- "Uw7vdrQAAAAJ"
@@ -29,18 +29,64 @@ pubs <-
     arrange(-year) |> 
     force()
 
+str_count(pubs$Authors, ",")
+
+paste0(str_extract(pubs$Authors, "^([^,]*,){0,7}[^,]*"), 
+      str_extract(pubs$Authors, "..., [^,]*$"))
+
+
+# Create a gt table with the publication data
 pubs |> 
     rowwise() |> 
-    transmute(Citation = glue("{Authors} ({year}). {title}, {journal}, {number}"),
+    mutate(Authors = if_else(str_count(Authors, ",") >= 8, 
+                             true = paste0(str_extract(Authors, "^([^,]*,){0,7}[^,]*"), 
+                                           ", ..., ",
+                                           str_extract(Authors, "[^,]*$")), 
+                             false = Authors)) |> 
+    transmute(Citation = str_glue("{Authors} ({year}). **{title}.** _{str_to_title(journal)}_, {number}"),
               Abstract = Description,
               Link = link,
               year) |> 
     group_by(year) |> 
     gt() |> 
     fmt_passthrough(Abstract) |> 
+    fmt_markdown(Citation) |> 
     fmt_url(Link, as_button = TRUE, label = "Link") |> 
     cols_width(Citation ~ px(300),
                Abstract ~ px(700),
                Link ~ px(70)) |> 
-    gtsave("pubs.html")
+    # gtsave("pubs.html") |> 
+    force()
+
+
+
+# Create a bibtex file that can be used for the publications
+
+x <-
+    pubs |> 
+        transmute(bibtype = "Article",
+                  # Create a key using the first author, year, and rownumber
+                  key = str_match(author, "\\s(.*?)\\,")[,2] |> 
+                   str_to_lower() |> 
+                   stri_trans_general(id = "Latin-ASCII") |> 
+                   paste0(year, "_", row_number()),
+               author,
+               year,
+               title,
+               journaltitle = journal,
+               number,
+               abstract = Description,
+               publisher = Publisher,
+               url = link
+               ) |> 
+    # Manually change the name of the journal for two entries (should be fixed on scholar)
+        mutate(journaltitle = case_when(journaltitle == "" & str_detect(author, "Oshiro") ~ "OSF Preprints",
+                                        journaltitle == "" & str_detect(author, "Terry") ~ "Journal of Open Psychology Data",
+                                        TRUE ~ journaltitle)) |> 
+    column_to_rownames("key")
+
+
+
+WriteBib(as.BibEntry(x), "temp.bib")
+
 
