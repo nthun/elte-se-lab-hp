@@ -18,11 +18,11 @@ last_name: Fodor
 organizations:
 - name: Eötvös Loránd University
   url: ""
-role: Postgradute Research Intern
+role: Graduate Alumna
 superuser: false
 title: Virág Fodor
 user_groups:
-- Grad Students
+- Graduate Alumni
 ---
 
 Virág is a postgraduate research intern. She's recently graduated from the Cognitive Neuroscience Master's program at Radboud University, where she was researching the determinants of perceived trust. As an intern, she is delving into the realm of tactile perception and its intricate connections with emotions and physiological arousal. More broadly, Virág is interested in understanding how perception changes with various factors such as emotional states and new information. When she's not immersed in debugging code, she loves spending her time climbing, running, and knitting.

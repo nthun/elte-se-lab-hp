@@ -1,0 +1,18 @@
+---
+date: "2024-12-08"
+title: Stress and Emotions Lab members' success at the Conference of Scientific Students’ Associations (TDK)
+---
+
+On the 6th of December, 2024, the home competition of the Conference of Scientific Students' Associations (TDK) was held, where two of our lab members received outstanding placements.
+
+<!--more-->
+
+The Conference of Scientific Students' Associations (TDK) is an excellent opportunity for young researchers to showcase their own research projects. By competing here, awarded researchers can go on to the National Conference of Scientific Students' Associations (OTDK), where they can compete in their Section with students from all over Hungary.
+
+In 2024, the home competition of TDK was held on the 6th of December, where 42 research projects have been presented to the jury. Out of these, two of our members received outstanding placements.
+
+Anna Viola Sándor received 3rd place with her project 'The evaluation of verbal agression with Artificial Intelligence'. Alongside with her other project titled ‘The effect of physiological arousal on verbal agression’, she is now eligible to compete at OTDK with both of her projects.
+
+Flóra Janku received 2nd place with her project titled 'The effect of the menstrual cycle and hormonal contraceptives on the perception of physiological arousal'. She is also eligible to compete at OTDK.
+
+The National Conference of Scientific Students' Associations (OTDK) will be held at 22-24 of April, 2025. Good luck to Anna and Flóra for competing!
