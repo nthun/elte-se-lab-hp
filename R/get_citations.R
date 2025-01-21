@@ -4,6 +4,7 @@ library(gt)
 library(RefManageR)
 library(lubridate)
 library(stringi)
+library(rmarkdown)
 
 tamas_scholar <- "Lec9WuYAAAAJ"
 levente_scholar <- "Uw7vdrQAAAAJ"
@@ -55,7 +56,7 @@ pubs |>
     cols_width(Citation ~ px(300),
                Abstract ~ px(700),
                Link ~ px(70)) |> 
-    # gtsave("pubs.html") |> 
+    gtsave("static/publication/pubs.html") |> 
     force()
 
 
@@ -87,6 +88,5 @@ x <-
 
 
 
-bib_file <- WriteBib(as.BibEntry(x), "temp.bib")
-bib_file <- "content/publication/temp.bib"
+WriteBib(as.BibEntry(x), "temp.bib")
 
