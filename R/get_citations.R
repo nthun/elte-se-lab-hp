@@ -87,6 +87,6 @@ x <-
 
 
 
-WriteBib(as.BibEntry(x), "temp.bib")
-
+bib_file <- WriteBib(as.BibEntry(x), "temp.bib")
+bib_file <- "content/publication/temp.bib"
 
