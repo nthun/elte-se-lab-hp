@@ -13,7 +13,7 @@ interests:
 - Interconnectedness of mental and physical health and their combined influence on well-being
 last_name: Bárkányi
 organizations:
-- name: Leuphana University
+- name: Eötvös Loránd University
   url: ""
 role: Research Assistant
 superuser: false
