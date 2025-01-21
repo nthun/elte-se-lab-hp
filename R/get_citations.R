@@ -54,7 +54,7 @@ pubs |>
     fmt_markdown(Citation) |> 
     fmt_url(Link, as_button = TRUE, label = "Link") |> 
     cols_width(Citation ~ px(300),
-               Abstract ~ px(700),
+               Abstract ~ px(600),
                Link ~ px(70)) |> 
     gtsave("static/publication/pubs.html") |> 
     force()
