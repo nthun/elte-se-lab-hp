@@ -1,0 +1,60 @@
+---
+date: "2025-03-26"
+title: PhD Student Opportunity at the ELTE Stress and Emotions Lab
+---
+
+The ELTE Stress and Emotions Lab is seeking highly motivated PhD students to join our team of enthusiastic researchers.
+
+<!--more-->
+
+The ELTE Stress and Emotions Lab is seeking highly motivated PhD students to join our team of enthusiastic researchers. Our lab explores the links between heightened physiological states, such as acute physiological stress, and human behavior, cognition, perception, and emotions. We use experimental methods to investigate the effects of physiological arousal in the laboratory and in everyday situations. Our research aims to contribute to a better understanding of the embodiment of the human mind and the development of models of consciousness. For more information about the lab, please see the ELTE Stress and Emotions Lab Onboarding Slide Deck.
+
+Our lab's research projects include:
+
+* Investigating the effects of stress on cognitive functions.
+* Examining the relationship between emotions and physiological responses.
+* Exploring the impact of stress and emotions on decision-making.
+* Analyzing the effectiveness of stress-reduction techniques.
+
+## Activities
+
+As a PhD student, you will have the opportunity to lead and participate in various aspects of research and other academic activities:
+* Leading research design and pre-registration of studies.
+* Overseeing data collection and advanced analysis.
+* Developing and coding experiments and designing complex analysis plans.
+* Conducting thorough literature searches and reviews.
+* Contributing to scholarly communication through high-impact presentations and publications.
+* Actively participating in lab meetings and leading discussions.
+
+## Benefits
+
+* Leading state-of-the-art scientific research in psychological science.
+* Gaining experiences that are crucial in furthering your academic career.
+* Authorship in high-quality publications based on significant contributions.
+* Being a core part of a friendly and active community with social and scientific activities.
+* Extensive support from lab members and resources for your own research projects and career development.
+
+## Requirements
+
+We are looking for candidates who:
+* Are strongly considering pursuing an academic career
+* Possess high skills in research methodology and data analysis
+* Exhibit a strong willingness to learn programming early on
+* Are motivated and able to learn new skills and knowledge related to research
+* Are willing to undertake administrative tasks
+* Can handle monotonous tasks without losing motivation or precision
+* Can devote at least 8 hours a week to lab activities
+* Have excellent English skills
+* Are open to learn new things and improve academic writing and public speaking skills
+* Will always be respectful with other lab members and participants
+* Experience in coding (in any programming language or statistical package) is a strong advantage. Expertise in data analysis tools such as R, JASP, or JAMAVI is also beneficial.
+
+## Diversity and inclusion
+
+Our lab supports diversity in academia and encourages applications from everyone who fits the criteria, regardless of nationality, race, ethnicity, sex, gender identity, sexual orientation, age, family status, disabilities, or religious beliefs.
+
+## How to apply
+
+Send a short motivation letter (max 1 page) detailing your interest in participating in research activities, why you are a good fit for the position and the team, and what you would like to gain from joining the lab to stress.and.emotions.lab@gmail.com.
+
+For more information about how we work in the lab, please see the ELTE Stress and Emotions Lab [Onboarding Slide Deck](https://docs.google.com/presentation/d/1S_NBHGPXC1FEa-DpTeM41DyW_IjRz2QM3kzvfi3lt7c/edit?slide=id.p#slide=id.p) and our webpage.
