@@ -1,5 +1,5 @@
 ---
-date: "2024-04-06"
+date: "2025-04-06"
 title: "Spring recharge with a Zebegény hike"
 ---
 
