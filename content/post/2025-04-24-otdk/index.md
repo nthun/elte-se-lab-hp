@@ -1,0 +1,16 @@
+---
+date: "2025-04-24"
+title: "OTDK achievements from Stress and Emotions Lab"
+---
+
+ELTE Stress and Emotions Lab members show outstanding achievements at the National Conference of Scientific Students' Associations (OTDK)!
+
+<!--more-->
+
+The Educational, Psychological and Andragogical Section of the 37th National Conference of Scientific Students' Associations (37. OTDK PPAK section) was held from 22nd April to 24th April, 2025, at Szombathely. Young researchers from numerous Hungarian universities attended the event, and showcased great research projects.
+
+Two of our members attended the conference. Anna brought two research projects to the OTDK, one about verbal agression and AI, the other about the connection between verbal agression and physiological arousal. She showed an excellent performance among other strong projects, and though she did not receive a prize this year, she is sure to do so in the future!
+
+Flóra presented her project about the connection of the menstrual cycle, hormonal contraceptives and physiological arousal. She was awarded 1st place in the section of Health Psychology.
+
+Congratulations to both of them!
