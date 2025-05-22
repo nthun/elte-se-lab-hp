@@ -2,6 +2,9 @@
 bio: My research interests include discovering systematic differences between people in their behaviour.
 education:
   courses:
+  - course: MA in Psychology
+    institution: Eötvös Loránd University
+    year: 2024-2026
   - course: BA in Psychology
     institution: Eötvös Loránd University
     year: 2023
