@@ -1,5 +1,6 @@
 ---
 date: "2025-07-04"
+author: "Anna Viola Sándor"
 title: "Celebrating the end of semester with a picnic"
 output: md_document
 ---
