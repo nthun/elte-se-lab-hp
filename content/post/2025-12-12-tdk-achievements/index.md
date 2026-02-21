@@ -1,0 +1,23 @@
+---
+title: Stress and Emotions Lab members' success at the Conference of Scientific Students’
+  Associations (TDK)
+date: "2025-12-12"
+---
+
+On 12 December 2025, the local round of the Conference of Scientific Students' Associations (TDK) was held, where five members of our lab participated and achieved outstanding results.
+
+<!--more-->
+
+The Conference of Scientific Students' Associations (TDK) provides an excellent platform for young researchers to present their independent research projects. Awarded participants earn the opportunity to advance to the National Conference of Scientific Students' Associations (OTDK), where they compete within their respective Sections alongside students from across Hungary.
+
+At this year’s local TDK competition, five of our lab members presented their work to the jury in different sections.
+
+Máté Nyírő-Kovács and Dorottya Zorka Csala introduced their research on the development of a caffeine sensitivity scale.
+
+Donát Jakus was awarded 3rd place for his project entitled “The Role of Personality and Emotion Regulation in Caffeine Sensitivity.”
+
+Anna Viola Sándor received 3rd place for her study “The Connection Between Verbal Aggression and Physiological Arousal.”
+
+Mercédesz Tóth achieved 1st place with her presentation “The Role of Interoceptive Awareness in Caffeine Sensitivity.”
+
+All participating lab members have now qualified to compete at the National Conference of Scientific Students' Associations (OTDK), which will be held in 2027. Congartulation for the outstanding results!
