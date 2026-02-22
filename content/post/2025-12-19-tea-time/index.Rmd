@@ -1,0 +1,16 @@
+---
+date: "2025-12-19"
+title: "Christmas celebration"
+output: md_document
+---
+
+The Stress and Emotions Lab held their annual Christmas celebration on the 19th of December. After the succesful TDK presentations and a challenging semester behind, the celebration was well needed and deserved. 
+
+<!--more-->
+
+The lab members gathered in a special tea house in Budapest where they had the chance to taste special tea creations and talk through the latest events at the lab: the successful TDK presentations and the ongoing research projects. They also had the chance to connect and enjoy a lovely evening together before the start of the Christmas break. 
+
+Merry Christmas to everyone!
+
+
+
