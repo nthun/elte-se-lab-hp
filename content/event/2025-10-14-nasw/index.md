@@ -1,6 +1,6 @@
 ---
 date: "2025-10-24"
-external_link: https://sciencewriters2025.org/schedule/
+external_link: https://docs.google.com/presentation/d/1hVXXf5I_hW3K9vCObVIKo5zqQKn5ddC4mb-tTiUh_kQ/
 image:
   focal_point: Smart
 summary: "A conference presentation about questionable research practices, with Tamas Nagy and his collegaue Jane Hergert speaking about their recent paper, 'Bestiary of Questionable Research Practices in Psychology'."

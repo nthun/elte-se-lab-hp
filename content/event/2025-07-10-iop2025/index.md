@@ -1,6 +1,6 @@
 ---
 date: "2025-07-10"
-external_link: https://iop2025.pl/programme
+external_link: https://docs.google.com/presentation/d/1EdJJPSwgw3RpXbN__oOXV-vZQyaYh6RlXUu5XwGN0a0/edit?slide=id.p#slide=id.p
 image:
   focal_point: Smart
 summary: "A poster presentation at the 22nd World Congress of Psychophysiology at Kraków about arousal and cognitive fatigue, with Tamas Nagy presenting  the lab's latest research project, 'The Role of Arousal in Cognitive Fatigue Recovery'."
