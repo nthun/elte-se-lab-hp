@@ -14,12 +14,19 @@ tamas_pub <- get_publications(tamas_scholar) |> filter(year >= start_year)
 levente_pub <- get_publications(levente_scholar) |> filter(year >= start_year)
 
 get_alldata <- function(sid = NULL, start_year = 2023){
-    get_publications(id = sid) |> 
-        filter(year >= start_year) |> 
-        mutate(link = map_chr(pubid, ~get_publication_url(id = sid, pub_id = .x)),
-               alldata = map(pubid, ~get_publication_data_extended(id = sid, pub_id = .x))) 
-    
+  get_publications(id = sid) |> 
+    filter(year >= start_year) |> 
+    mutate(link = map_chr(pubid, ~{
+      Sys.sleep(2)  # wait 2 seconds between requests
+      get_publication_url(id = sid, pub_id = .x)
+    }),
+    alldata = map(pubid, ~{
+      Sys.sleep(2)
+      get_publication_data_extended(id = sid, pub_id = .x)
+    })) 
 }
+    
+
 
 tamas_pub <- get_alldata(tamas_scholar, start_year = 2023)
 levente_pub <- get_alldata(levente_scholar, start_year = 2023)
