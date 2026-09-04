@@ -11,7 +11,7 @@ education:
 email: ""
 first_name: Levente
 interests:
-- Healthy and patchological cognitive and affective functioning
+- Healthy and pathological cognitive and affective functioning
 - Complex statistical models
 last_name: Rónai
 organizations:

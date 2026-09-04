@@ -9,7 +9,7 @@ email: ""
 first_name: Luca
 interests:
 - Psychoneuroendocrine mechanisms underlying stress and emotional regulation
-- Women’s health, particularly the interaction between hormonal fluctuations and stres
+- Women’s health, particularly the interaction between hormonal fluctuations and stress
 last_name: Tóth
 organizations:
 - name: Eötvös Loránd University
