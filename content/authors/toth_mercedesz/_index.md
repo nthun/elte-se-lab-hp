@@ -14,9 +14,9 @@ education:
 email: ""
 first_name: Mercédesz
 interests:
-- Meta-memory in obsessive-compulsive disorder.
-- Neural and somatic background of neuropsychiatric disorders.
-- Complex statistical methods, programming.
+- Meta-memory in obsessive-compulsive disorder
+- Neural and somatic background of neuropsychiatric disorders
+- Complex statistical methods, programming
 last_name: Tóth
 organizations:
 - name: Eötvös Loránd University
