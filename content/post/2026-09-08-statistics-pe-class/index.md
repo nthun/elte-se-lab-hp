@@ -16,4 +16,4 @@ We hope that the students will remember that statistics is not just about number
 
 ## Take a glimpse of the class in the video below:
 
-{{< video src="statistics-pe-class-finale.mp4" poster="featured.jpg" controls="yes" >}}
+{{< video src="statistics-pe-class-finale.mp4" controls="yes" >}}
