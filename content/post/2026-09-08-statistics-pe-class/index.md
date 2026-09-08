@@ -10,7 +10,7 @@ After completing a short anonymous questionnaire, the students used their own po
 
 The class also explored what random variation looks like. By arranging themselves according to their birthdays, the students could see how apparent patterns can emerge even when two variables are unrelated—and experience the birthday paradox first-hand.
 
-The session ended with a beat. Tamás used the questionnaire results to program an electronic track on site. The structre of the music incorporated the proportion of students who had consumed caffeine, variation in their height, the proportion of left-handed students, and the correlation between height and shoe size.
+The session ended with a beat. Tamás used the questionnaire results to program an electronic track on site. The structure of the music incorporated the proportion of students who had consumed caffeine, variation in their height, the proportion of left-handed students, and the correlation between height and shoe size.
 
 We hope that the students will remember that statistics is not just about numbers on a screen, but about understanding the world around us and that they can be part of that understanding.
 
