@@ -8,8 +8,8 @@ education:
 email: ""
 first_name: Máté
 interests:
-- Cognitive and Affective Psychology.
-- Experimental Psychology.
+- Cognitive and Affective Psychology
+- Experimental Psychology
 last_name: Nyírő-Kovács
 organizations:
 - name: Eötvös Loránd University
