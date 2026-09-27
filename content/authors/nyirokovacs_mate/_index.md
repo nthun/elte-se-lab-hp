@@ -8,8 +8,8 @@ education:
 email: ""
 first_name: Máté
 interests:
-- Exploring various research methodologies and topics.
-- Understanding complex emotions.
+- Cognitive and Affective Psychology.
+- Experimental Psychology.
 last_name: Nyírő-Kovács
 organizations:
 - name: Eötvös Loránd University
@@ -21,4 +21,4 @@ user_groups:
 - Lab Members
 ---
 
-My name is Máté Nyírő-Kovács, and I am a first-year Bachelor's student in Psychology at ELTE. I joined the lab in 2025 as a research assistant with the intention of gaining hands-on experience across all aspects of research. While I haven't yet chosen a particular focus, I look forward to exploring different topics and finding what excites me specifically within the field. In the future I hope to work on understanding complex emotions.
+My name is Máté Nyírő-Kovács, and I am a final-year Bachelor’s student in Psychology at ELTE. I joined the lab in 2025 as a research assistant with the intention of gaining hands-on experience in research. Since joining the lab, I have been involved in psychometric scale development research focusing on caffeine sensitivity. In the future, I aim to broaden my research interests to include other areas of psychological research and methodologies.
