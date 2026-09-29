@@ -15,11 +15,11 @@ last_name: Bárkányi
 organizations:
 - name: Eötvös Loránd University
   url: ""
-role: Research Assistant
+role: Graduate Alumna
 superuser: false
 title: Zita Bárkányi
 user_groups:
-- Lab Members
+- Graduate Alumni
 ---
 
 My name is Zita Bárkányi, and I am currently pursuing a Bachelor’s degree in Psychology at Leuphana University in Lüneburg, Germany (2023–2026). Motivated to gain experience in psychological research, I joined the ELTE Stress and Emotions Lab in the summer of 2024. My primary research interests involve exploring the influence of stress and emotions on human behavior. In my future research, I aim to focus on understanding how emotions and stress shape motivation, perceptions of competence, and overall well-being.
