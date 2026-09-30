@@ -2,6 +2,9 @@
 bio: My research interests include the connection between biological processes, e.g. the menstrual cycle, and emotional and physiological changes under stress.
 education:
   courses:
+  - course: Clinical and Mental Health Psychology
+    institution: Semmelweis University
+    year: 2026-
   - course: MA in Psychology
     institution: Eötvös Loránd University
     year: 2023-2025
@@ -24,4 +27,5 @@ user_groups:
 - Lab Members
 ---
 
-I'm Flóra Janku, a second-year Master's student in Psychology at ELTE PPK, where I am studying Clinical and Health Psychology. In the future I would like to work in the clinical field with a cognitive and schema therapy approach, and I am also interested in clinical research. I joined the Stress and Emotions research group as a research assistant in January 2023, while I was still in undergraduate studies. Here, I am working on the relationship between media-induced stress recovery and the menstrual cycle, as well as assisting in other projects. When I have more free time, I also volunteer at a psychiatric care centre. I enjoy being in nature, cooking and reading.
+I'm a psychologist at Csolnoky Ferenc Hospital (VV CSFK), where I work in the OB/GYN Ward, and I also lead Healthcare Workers’ Supportive Therapy. I am also a first-year Clinical and Mental Health Psychology student (postgrad) at Semmelweis University. At the S&E Lab, I am an external member, where I collaborate on projects related to media-induced stress recovery and the ESM modeling of arousal and emotion. In the future, I am interested in studying applied methods in clinical fields, with a specialized interest in schema therapy and DBT. I am also curious about constructs such as stress, burnout, and neurodivergence, and the transdiagnostic aspects connecting these 3. When I have some free time, I enjoy being in nature, cooking, and reading.
+
