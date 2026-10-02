@@ -9,7 +9,7 @@ email: ""
 first_name: Luca
 interests:
 - Psychoneuroendocrine mechanisms underlying stress and emotional regulation
-- Women’s health, particularly the interaction between hormonal fluctuations and stress
+- Women’s health, particularly the interplay between menstrual cycle-related hormonal fluctuations, stress, and premenstrual mood symptoms
 last_name: Tóth
 organizations:
 - name: Eötvös Loránd University
@@ -21,4 +21,5 @@ user_groups:
 - Lab Members
 ---
 
-My name is Luca Tóth, and I am a first-year Bachelor’s student in Psychology at ELTE. I joined the lab in December 2025 to gain first-hand experience in research and to understand the methodological and practical aspects of scientific work. I am especially interested in psychoneuroendocrine mechanisms and how stress-related hormonal regulation influences emotional experience and long-term health outcomes.
+My name is Luca Tóth, and I am a second-year Bachelor’s student in Psychology at ELTE. I joined the lab in December 2025 to gain first-hand experience in research and to understand the methodological and practical aspects of scientific work. I am especially interested in 
+psychoneuroendocrine mechanisms and how stress-related hormonal regulation influences emotional experience and long-term health outcomes.
